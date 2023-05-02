@@ -15,3 +15,10 @@ To view a list of all available commands, simply type `/help` in the chat. This 
 - [x] Sticky messages with modal for reminder about the channel topic & channel rules.
 - [x] Utility tools like search engine, pw generator, reminder, sourcebin generator, etc.
 - [x] And so much more features...
+
+***
+<p align="center">
+  <a href="https://github.com/UniverseBot">
+    <img src="https://komarev.com/ghpvc/?username=UniverseBot&style=for-the-badge&label=PROFILE%20VIEWS&color=6e57ff" alt="UniverseBot" />
+  </a>
+</p>
