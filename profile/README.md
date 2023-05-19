@@ -17,6 +17,15 @@ To view a list of all available commands, simply type `/help` in the chat. This 
 - [x] And so much more features...
 
 ***
+<div align="center">
+  <a href="https://discords.com/bots/bots/850704166359531520">
+    <img src="https://discords.com/bots/api/bot/850704166359531520/widget">
+  </a>
+  <a href="https://top.gg/bot/850704166359531520">
+    <img src="https://top.gg/api/widget/850704166359531520.svg">
+  </a>
+</div>
+
 <p align="center">
   <a href="https://github.com/UniverseBot">
     <img src="https://komarev.com/ghpvc/?username=UniverseBot&style=for-the-badge&label=PROFILE%20VIEWS&color=6e57ff" alt="UniverseBot" />
