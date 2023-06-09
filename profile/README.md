@@ -3,6 +3,8 @@
 This bot is a versatile Discord bot that can help you manage your Discord server with ease. Equipped with various features such as moderation management, tools, image manipulation, utility, and much more, this bot is designed to provide convenience and comfort in managing your Discord server. With user-friendly and customizable features, this bot will help you create a better user experience for your server members. Whether you're looking for a bot that can help you moderate your server, image manipulation, sticky messages, or even just for entertainment, this bot will meet your needs with its versatile features available.
 - [Support Server](https://discord.gg/Eeg4unAu6q)
 - [Invite](https://discord.com/oauth2/authorize?client_id=850704166359531520&scope=bot%20applications.commands&permissions=549755289087)
+- [Terms of Service](https://github.com/UniverseBot/Terms-of-Service)
+- [Privacy Police](https://github.com/UniverseBot/Privacy-Police)
 
 
 # Commands
